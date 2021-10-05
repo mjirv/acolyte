@@ -1,0 +1,8 @@
+{
+    "name": "Acolyte Client",
+    "description": "A nice-looking web client for the Acolyte API",
+    "repository": "https://github.com/mjirv/acolyte",
+    "buildpacks": [
+        { "url": "heroku/python" }
+    ]
+}
