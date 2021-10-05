@@ -1,9 +1,0 @@
-{
-    "name": "Acolyte API",
-    "description": "Takes in plain English questions about data and returns data from a data warehouse",
-    "repository": "https://github.com/mjirv/acolyte",
-    "buildpacks": [
-        { "url": "https://github.com/heroku/heroku-buildpack-static" },
-        { "url": "heroku/nodejs" }
-    ]
-}
