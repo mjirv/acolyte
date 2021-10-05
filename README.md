@@ -1,6 +1,8 @@
 # Acolyte
 _Self-service data analytics powered by GPT-3_
 
+[Screenshot](screenshot.PNG)
+
 ## About
 Acolyte is self-service business analytics. Users can ask questions like "how many customers do we have?" or "who placed the most orders last week?" in plain English and get the right answer from their data warehouse.
 
