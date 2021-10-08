@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug or an issue you've found with this package
+about: Report a bug or an issue you've found with Acolyte
 title: ''
 labels: bug, triage
 assignees: ''

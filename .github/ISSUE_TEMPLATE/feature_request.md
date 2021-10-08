@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this package
+about: Suggest an idea for Acolyte
 title: ''
 labels: enhancement, triage
 assignees: ''
