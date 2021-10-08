@@ -1,4 +1,5 @@
 # Acolyte
+### [Demo](https://acolyte-demo.herokuapp.com) / [Website](https://acolytehq.com)
 _Self-service data analytics powered by GPT-3_
 
 ![Screenshot](screenshot.PNG)
