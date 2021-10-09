@@ -3,14 +3,14 @@
 </template>
 
 <script>
-import Question from './components/Question.vue'
+  import Question from './components/Question.vue'
 
-export default {
-  name: 'App',
-  components: {
-    Question
+  export default {
+    name: 'App',
+    components: {
+      Question
+    }
   }
-}
 </script>
 
 <style>
