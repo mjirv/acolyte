@@ -17,6 +17,7 @@ There are two separate applications to deploy (the api and client). The easiest 
 3. In the Client app (via the Heroku command line or the Heroku web UI):
     1. Add the `heroku/nodejs` buildpack and the `https://github.com/heroku/heroku-buildpack-static` buildpack.
     2. Add a `VUE_APP_API_ENDPOINT` with the url to your API (e.g. `https://acolyte-api.herokuapp.com/api`)
+    3. Optionally, if you want to track usage using [Heap](https://heap.io), add a `VUE_APP_HEAP_ID` environment variable with your Heap environment ID.
 4. In this directory, via the Heroku command line, run the following:
 ```bash
 heroku git:remote --remote heroku-client -a YOUR_CLIENT_HEROKU_APP_NAME
